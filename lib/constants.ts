@@ -1,0 +1,50 @@
+export const events = [
+  {
+    title: "Next.js Conf 2026",
+    image: "/images/event1.png",
+    slug: "nextjs-conf-2026",
+    location: "San Francisco, CA",
+    date: "Oct 24, 2026",
+    time: "9:00 AM PST",
+  },
+  {
+    title: "React Summit",
+    image: "/images/event2.png",
+    slug: "react-summit-2026",
+    location: "Amsterdam, Netherlands",
+    date: "Jun 14, 2026",
+    time: "10:00 AM CET",
+  },
+  {
+    title: "Vercel Ship",
+    image: "/images/event3.png",
+    slug: "vercel-ship-2026",
+    location: "New York, NY",
+    date: "May 20, 2026",
+    time: "10:00 AM EST",
+  },
+  {
+    title: "Prisma Day",
+    image: "/images/event4.png",
+    slug: "prisma-day-2026",
+    location: "Berlin, Germany",
+    date: "Sep 12, 2026",
+    time: "9:30 AM CET",
+  },
+  {
+    title: "Tailwind Connect",
+    image: "/images/event5.png",
+    slug: "tailwind-connect-2026",
+    location: "Online",
+    date: "Jul 18, 2026",
+    time: "11:00 AM EST",
+  },
+  {
+    title: "JS World Conference",
+    image: "/images/event6.png",
+    slug: "js-world-conf-2026",
+    location: "London, UK",
+    date: "Nov 05, 2026",
+    time: "8:30 AM GMT",
+  }
+];
